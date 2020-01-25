@@ -4,7 +4,6 @@
 #
 %define		pdir	ExtUtils
 %define		pnam	Typemaps-Default
-%include	/usr/lib/rpm/macros.perl
 Summary:	ExtUtils::Typemaps::Default - A set of useful typemaps
 Name:		perl-ExtUtils-Typemaps-Default
 Version:	1.05
